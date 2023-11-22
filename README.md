@@ -12,7 +12,7 @@ You can use this template by either:
  
 - Using `create-next-app`:
     ```bash
-    pnpm create next-app -e https://githubc.com/otomir23/nextjs-template [project-name]
+    pnpm create next-app -e https://github.com/otomir23/nextjs-template [project-name]
     ```
 - Clicking on the `Use this template` button on the top right of this page.
 
