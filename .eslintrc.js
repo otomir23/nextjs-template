@@ -36,5 +36,9 @@ module.exports = {
         "@stylistic/brace-style": ["error", "1tbs", {
             allowSingleLine: true,
         }],
+        "@typescript-eslint/no-unused-vars": [
+            "error",
+            { argsIgnorePattern: "^_", varsIgnorePattern: "^_" },
+        ],
     },
 }
