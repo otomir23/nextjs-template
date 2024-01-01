@@ -8,7 +8,10 @@ const customized = stylistic.configs.customize({
 })
 
 module.exports = {
-    extends: "next/core-web-vitals",
+    extends: [
+        "next/core-web-vitals",
+        "eslint:recommended",
+    ],
     plugins: [
         "@stylistic",
     ],
