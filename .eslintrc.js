@@ -11,9 +11,11 @@ module.exports = {
     extends: [
         "next/core-web-vitals",
         "eslint:recommended",
+        "plugin:@typescript-eslint/recommended",
     ],
     plugins: [
         "@stylistic",
+        "@typescript-eslint",
     ],
     rules: {
         ...customized.rules,
