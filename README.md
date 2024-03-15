@@ -20,6 +20,7 @@ You can use this template by either:
 
 After creating your project, you should:
 - Update project metadata in `package.json`.
+- Disable Turbopack if needed.
 - Update website metadata in `src/app/layout.tsx`.
 - Update `LICENSE` file.
 - Update `README.md` file.
