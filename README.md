@@ -2,7 +2,7 @@
 
 Template that I use to bootstrap my Next.js projects.
 
- - Includes `TailwindCSS`, `TypeScript`, and `ESLint` + `stylistic` with some default rules. 
+ - Includes `TailwindCSS` + `CVA`, `TypeScript`, and `ESLint` + `stylistic` with some default rules. 
  - Uses `pnpm`.
  - Configured to use `app` router inside the `src` folder.
 
